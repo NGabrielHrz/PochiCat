@@ -1,0 +1,116 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: Helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+}
+.Dash {
+  height: 15px;
+  background-color: #f8cfd3;
+}
+.div1 {
+  /* border: 1px green solid; */
+  width: 1300px;
+  height: 200px;
+}
+.Logo {
+  width: 256px;
+  height: 182px;
+  margin: 5px;
+  /* border: 1px red solid; */
+  padding: 5px;
+  float: left;
+}
+.TitlePage {
+  /* border: 1px blue solid; */
+  display: inline-block;
+  margin: 45px 0px 0px 240px;
+}
+h1 {
+  font-family: Times;
+  font-size: 80px;
+  font-weight: normal;
+}
+.Eslogan {
+  display: inline-block;
+  margin: 0px 0px 0px 295px;
+  font-family: Times;
+}
+.circle{
+  display: inline-flex;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: 1px solid #333;
+  background-color: white;
+  margin-right: 5px;
+}
+.circle2 {
+  margin: auto;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #f8cfd3;
+}
+.Text1 {
+  display: inline-block;
+  vertical-align: top;
+}
+.Cuerpo {
+  margin: auto;
+  margin-top: 15px;
+  border: 1px dashed #ff9aa4;
+  background-color: #f8cfd3;
+  border-radius: 40px;
+  width: 800px;
+  height: 500px;
+  padding: 20px;
+}
+.IMG {
+  width: 166px;
+  height: 166px;
+  float: left;
+  margin: 0px 5px 5px 0px;
+}
+.info {
+  text-align: justify;
+}
+.Video {
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.footer {
+  margin-top: 50px;
+  background-color: #f8cfd3;
+  height: 150px;
+}
+.titleFooter {
+  margin: auto;
+  padding-top: 25px;
+  text-align: center;
+  font-size: 40px;
+}
+.C {
+  vertical-align: top;
+  width: 10px;
+  height: 10px;
+}
+.tab {
+  margin: 0px 0px 0px 535px;
+}
+.DerReserv_ {
+  padding-top: -10px;
+  font-size: 10px;
+}
+.DerReserv {
+  margin-top: 21px;
+  font-size: 10px;
+  text-align: center;
+  font-weight: normal;
+}

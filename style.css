@@ -60,6 +60,35 @@ h1 {
 .Menu {
   text-align: center;
 }
+.TitleMenu {
+  margin: auto;
+  text-align: center;
+}
+.MochiMenu {
+  float: left;
+  width: 378px;
+  height: 196px;
+}
+.MochiMenu:nth-child(1) {
+  border-right: 1px #ff9aa4 dashed;
+  border-bottom: 1px #ff9aa4 dashed;
+}
+.MochiMenu:nth-child(2) {
+  border-left: 1px #ff9aa4 dashed;
+  border-bottom: 1px #ff9aa4 dashed;
+}
+.MochiMenu:nth-child(3) {
+  border-right: 1px #ff9aa4 dashed;
+  border-top: 1px #ff9aa4 dashed;
+}
+.MochiMenu:nth-child(4) {
+  border-left: 1px #ff9aa4 dashed;
+  border-top: 1px #ff9aa4 dashed;
+}
+.MochisMenu {
+  margin: auto;
+  text-align: center;
+}
 .a {
   margin: 0px 15px 0px 15px;
   text-decoration: none;

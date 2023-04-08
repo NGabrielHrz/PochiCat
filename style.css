@@ -9,6 +9,9 @@ body{
   line-height: 24px;
   color: #333;
 }
+html {
+  scroll-behavior: smooth;
+}
 .Dash {
   height: 15px;
   background-color: #f8cfd3;
@@ -68,6 +71,7 @@ h1 {
   float: left;
   width: 378px;
   height: 196px;
+  text-align: center;
 }
 .MochiMenu:nth-child(1) {
   border-right: 1px #ff9aa4 dashed;

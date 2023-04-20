@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'PochiCat'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_90C22ACBBFB742198E52A857FC6B4464 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E73BA19285346529205263FC6646355 }}
           package: .
